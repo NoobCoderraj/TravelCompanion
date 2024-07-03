@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96011250827",
+    "project_id": "travelcompanionapp-70053",
+    "storage_bucket": "travelcompanionapp-70053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96011250827:android:f4079bb0bcde8f483e788e",
+        "android_client_info": {
+          "package_name": "com.example.travelcompanionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8Eg7dhAm8o2tDDPZeAiwsNTexlWn7WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
